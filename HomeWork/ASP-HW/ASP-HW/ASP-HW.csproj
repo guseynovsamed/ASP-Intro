@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ASP_HW</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Models\" />
+    <None Remove="Views\" />
+    <None Remove="Views\Book\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\Book\" />
+    <None Remove="ViewModels\User\" />
+    <None Remove="Views\User\" />
+    <None Remove="ViewModels\Employee\" />
+    <None Remove="Views\Employee\" />
+    <None Remove="ViewModels\Product\" />
+    <None Remove="Views\Product\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Book\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\Book\" />
+    <Folder Include="ViewModels\User\" />
+    <Folder Include="Views\User\" />
+    <Folder Include="ViewModels\Employee\" />
+    <Folder Include="Views\Employee\" />
+    <Folder Include="ViewModels\Product\" />
+    <Folder Include="Views\Product\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{23F1F547-0A90-46AD-94F3-0A553BDDEAEE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASP-HW/Views/Product/Index.cshtml">
+    <Files>
+      <File FileName="ASP-HW/Controllers/UserController.cs" Line="25" Column="5" />
+      <File FileName="ASP-HW/Controllers/ProductController.cs" Line="26" Column="23" />
+      <File FileName="ASP-HW/Views/Product/Index.cshtml" Line="24" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASP-HW" expanded="True">
+            <Node name="ASP-HW">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels">
+                <Node name="Book" expanded="True" />
+                <Node name="Employee" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="Views">
+                <Node name="Book" expanded="True" />
+                <Node name="Employee" expanded="True" />
+                <Node name="Product">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ASP-HW PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
